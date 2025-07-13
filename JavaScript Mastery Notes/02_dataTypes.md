@@ -214,7 +214,7 @@ This distinction is critical for understanding how data is manipulated in JavaSc
     ```
     
 7. **Using `parseInt()` with a radix (for specific base conversions)**:
-```js
-let str = "1010";
-let num = parseInt(str, 2); // 10 (binary to decimal)
-```
+    ```js
+    let str = "1010";
+    let num = parseInt(str, 2); // 10 (binary to decimal)
+    ```
